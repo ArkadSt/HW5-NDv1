@@ -16,7 +16,7 @@ public class MTv1 {
 	/*
 	 * Test method for 'ee.ut.cs.swt.nextdate.NextDate.run(int, int, int)'
 	 */
-	
+
 	@Test
 	public final void testJuneToJuly(){
 	assertEquals("7/1/2001", trialDate.run(6, 30, 2001));
